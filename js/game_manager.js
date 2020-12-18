@@ -185,8 +185,8 @@ GameManager.prototype.endPlayerMove = function () {
 		}
 		this.grid.gcTiles(770);
 		
-		// the mighty 2048 player
-		if(this.player.value >= 2048) {
+		// the mighty 65536 player
+		if(this.player.value >= 65536) {
 			self.won = true;
 			this.controllable = false;
 		}
