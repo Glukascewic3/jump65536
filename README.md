@@ -1,9 +1,9 @@
-# jump2048
+# jump65536
 
-ummmmm.
+Official Jump65536
 
-https://kotritrona.github.io/jump2048/
+https://glukascewic3.github.io/jump65536/
 
-https://kotritrona.github.io/jump2048/index_cn.html
+https://glukascewic3.github.io/jump65536/index_cn.html
 
-https://kotritrona.github.io/jump2048/ojhime.html
+https://glukascewic3.github.io/jump65536/ojhime.html
